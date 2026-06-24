@@ -51,7 +51,7 @@
 
 ## 🧭 Project Overview
 
-Indoor air quality is one of the most overlooked factors affecting health, focus, and well-being — yet most indoor spaces have no automated way to respond to it. Pollutant levels from cooking, dust, combustion gases, or simply poor cross-ventilation can build up unnoticed, especially in spaces that stay closed for long periods.
+Indoor air quality is one of the most overlooked factors affecting health, focus, and well-being — yet most indoor spaces have no automated way to respond to it. Pollutant levels from cooking, dust, combustion gases or simply poor cross-ventilation can build up unnoticed, especially in spaces that stay closed for long periods.
 
 **Air Quality Smart Window** solves this with a self-contained embedded system that:
 
